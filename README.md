@@ -1,6 +1,6 @@
 # pycounts_rr
 
-Calculate word counts in a text file!
+Calculate word counts in a text file and plots it.
 
 ## Installation
 
